@@ -1,0 +1,15 @@
+Vassant , Paracetemol
+
+Andy , Paracetemol
+
+Jim , Gabapentin
+
+Dwight , Losartan
+
+Angela , Antibiotics
+
+Kevin ,Albuterol
+
+Oscar ,Gabapentin
+
+Roshen , Paracetemol,Gabapentin,Albuterol

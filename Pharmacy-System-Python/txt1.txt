@@ -1,0 +1,11 @@
+Albuterol ,Exp Duration:12 Months,Price:5 RM per strip,Specs:Albuterol is a medication that opens up the medium and large airways in the lungs.
+
+Antibiotics ,Exp Duration:24 Months,Price:4 RM per strip,Specs:Antibiotics are medicines that fight bacterial infections in people and animals. They work by killing the bacteria or by making it hard for the bacteria to grow and multiply.
+
+Gabapentin ,Exp Duration:12 Months,Price:15 RM per strip,Specs:Gabapentin is an anticonvulsant medication primarily used to treat partial seizures and neuropathic pain. It is a first-line medication for the treatment of neuropathic pain caused by diabetic neuropathy, postherpetic neuralgia, and central pain.
+
+Hydrocodone ,Exp Duration:12 Months,Price:5 RM per strip,Specs:Hydrocodone is an opioid used to treat pain and as a cough suppressant. It is taken by mouth.
+
+Losartan ,Exp Duration:12 Months,Price:10 RM per strip,Specs:Losartan is a medication used to treat high blood pressure. It is also used for diabetic kidney disease, heart failure, and left ventricular enlargement
+
+Paracetemol ,Exp Duration:12 Months,Price:1RM per strip,Specs:analgesic and antipyretic actions similar to those of aspirin conditions include,headache, toothache, colds, influenza, rheumatic pain and dysmenorrhoea.
